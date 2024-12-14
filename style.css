@@ -1,0 +1,99 @@
+html{
+    height:100%;
+}
+
+
+body{
+    background-color:#2f3035;
+    background-image:url(images/pho.webp);
+    background-size: cover;
+    background-position:right;
+    
+
+}
+
+
+
+.container {
+    margin-left:auto;
+    margin-right:auto;
+    width:650px;
+}
+
+header {
+
+    height:300px;
+    text-align:center;
+ 
+ 
+}
+
+nav {
+    background-color:rgba(0, 0, 0, 0.384);
+    text-align:center;
+    padding-top:14px;
+    padding-bottom:14px;
+ 
+}
+
+main {
+   
+    height:200px;
+   text-align: center;
+   padding-top:10px;
+   margin-top: 40px;
+   padding-left:200;
+   padding-right:200;
+}
+
+footer {
+    background-color:rgba(0, 0, 0, 0.644);
+   padding-top:50px ;
+   padding-bottom: 50px;
+   
+}
+
+h1{
+    font-size: 50px;
+    color:white;
+    font-family:Helvetica;
+    text-align: center;
+}
+
+p{
+    font-size:18px;
+    color:white;
+    font-family: Verdana; 
+}
+
+a{
+    color:aqua;
+    font-family: Verdana;
+   /* text-decoration: none;*/
+}
+
+nav a{
+    text-decoration:none;
+    font-size:12px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+footer p{
+    font-size: 14px;
+    text-align: center;
+    color:rgba(179, 224, 167, 0.925)
+}
+
+.maps {
+    padding-bottom:25px;
+}
+
+
+
+
+
+
+
+
+
